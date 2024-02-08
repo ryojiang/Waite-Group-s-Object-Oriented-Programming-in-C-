@@ -2,7 +2,7 @@
 
 The original example codes for this book are using Visual C++ and Borland C++ to compile on Microsoft Windows system.
 If compile these codes by using Turbo C++ 1.01/3.0 on DOS system will get Error messages. 
-Therefore, I wrote a program to covert all examples to Turbo C++ style format.
+Therefore, I wrote a program to covert all examples to Turbo C++ style format at once.
 
 [Note]
 

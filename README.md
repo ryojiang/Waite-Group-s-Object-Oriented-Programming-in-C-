@@ -1,7 +1,7 @@
 # Example source code for "The Waite Group's Object-Oriented Programming In C++" by Robert Lafore
 
-The original example codes for this book are using Visual C++ and Borland C++ to compile on Microsoft Windows system.
-If compile these codes by using Turbo C++ 1.01/3.0 on DOS system will get Error messages. 
+The original example codes from this book are using Visual C++ and Borland C++ to compile on Microsoft Windows system.
+If one compile these codes by using Turbo C++ 1.01/3.0 on DOS system will get ERROR messages. 
 Therefore, I wrote a program to covert all examples to Turbo C++ style format at once.
 
 [Note]
@@ -9,7 +9,7 @@ Therefore, I wrote a program to covert all examples to Turbo C++ style format at
 1. Not all converted examples can be compiled successfully because some examples are related to compiler itself and Microsoft Windows system.
 If so, one need to use original example source codes, and compile those codes by using Visual C++ or Borland C++ on Microsoft Windows system.
 
-2. Coverted example source codes have NOT been fully tested by any C++ compiler.
+2. Coverted example source codes have NOT been fully tested by any C++ compiler, yet. Please use it wisely.
 
 [File name description]
 

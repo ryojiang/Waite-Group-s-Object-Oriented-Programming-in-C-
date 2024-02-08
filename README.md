@@ -4,10 +4,14 @@ The original example codes for this book are using Visual C++ and Borland C++ to
 If compile these codes by using Turbo C++ 1.01/3.0 on DOS system will get Error messages. 
 Therefore, I wrote a program to covert all examples to Turbo C++ style format.
 
-However, not all example can be compiled suceed because some examples are related to Microsoft Windows system.
-If so, one need to use original example source codes, and compile those codes by using Visual C++, Borland C++, or other C++ compiler on Microsoft Windows system.
+[Note]
 
-File name description
+1. Not all converted examples can be compiled successfully because some examples are related to compiler itself and Microsoft Windows system.
+If so, one need to use original example source codes, and compile those codes by using Visual C++ or Borland C++ on Microsoft Windows system.
+
+2. Neither original nor coverted example source codes have been fully tested by any C++ compiler.
+
+[File name description]
 
 source.zip : Original 3rd edition example code
 
@@ -17,7 +21,7 @@ student.zip: Original 4th edition example code
 
 4th_ed.zip : edition example code for Turbo C++ 1.01/3.0
 
-[Note]
+[Source]
 
 http://www.samspublishing.com is no longer exist; therefore, examples' code could not be downloaded for this book.
 

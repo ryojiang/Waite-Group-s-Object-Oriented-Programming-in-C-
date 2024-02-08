@@ -1,6 +1,6 @@
 # The Waite Group's Object-oriented Programming In C++
 
-The original example codes for this book are using Visual C++ and Borland C++ run to compile on Microsoft Windows system.
+The original example codes for this book are using Visual C++ and Borland C++ to compile on Microsoft Windows system.
 If compile these codes by using Turbo C++ 1.01 on DOS system will get Error messages. 
 Therefore, I wrote a program to covert all examples to Turbo C++ 1.01 style format.
 
